@@ -6,3 +6,12 @@ The data used for this implementation is the <a href="https://github.com/mostafa
 
 The accuracy achieved after training for 500 epochs is **87%**.
 
+
+## Original Image
+!["original"](https://raw.githubusercontent.com/yashk2810/SharpestMinds/master/Semantic%20Image%20Segmentation/image.png "original")
+
+## Label
+!["label"](https://raw.githubusercontent.com/yashk2810/SharpestMinds/master/Semantic%20Image%20Segmentation/label.png "label")
+
+## Predicted Label
+!["predicted"](https://raw.githubusercontent.com/yashk2810/SharpestMinds/master/Semantic%20Image%20Segmentation/predicted_label.png "predicted")
